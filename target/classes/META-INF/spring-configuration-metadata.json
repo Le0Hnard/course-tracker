@@ -27,7 +27,7 @@
       "name": "app.coursetracker.port",
       "type": "java.lang.Integer",
       "sourceType": "com.project.coursetracker.configurationproperties.AppProperties",
-      "defaultValue": 0
+      "defaultValue": 8080
     },
     {
       "name": "app.coursetracker.security.enabled",
